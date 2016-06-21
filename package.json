@@ -1,0 +1,19 @@
+{
+  "name": "dinesh-lodhi",
+  "version": "1.0.0",
+  "description": "lets play with web-dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dineshlodhi/web-dev-easy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dineshlodhi/web-dev-easy/issues"
+  },
+  "homepage": "https://github.com/dineshlodhi/web-dev-easy#readme"
+}
